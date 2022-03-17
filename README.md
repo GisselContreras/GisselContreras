@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GisselContreras
-- 🌱 I’m currently learning Desarrollo Web Front-End
+- 🌱 I’m currently learning Web Design
 - 📫 How to reach me gissela817c@gmail.com 
 
 <!---
